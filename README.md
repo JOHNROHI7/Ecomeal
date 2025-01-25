@@ -1,2 +1,0 @@
-# Ecomeal
-food delivery website
